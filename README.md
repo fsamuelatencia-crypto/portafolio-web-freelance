@@ -1,13 +1,27 @@
-# Portafolio frontend · demos
+# Portafolio web freelance
 
-Tres sitios estáticos hechos con HTML, CSS y JavaScript: Casa Brisa (restaurante ficticio), Solaria Norte (empresa ficticia) y portafolio personal editable.
+Sitio personal y dos sitios comerciales de demostración, creados con HTML, CSS y JavaScript.
+
+## Sitios públicos
+
+- [Portafolio de Atencia Sxmuel](https://fsamuelatencia-crypto.github.io/portafolio-web-freelance/portafolio/)
+- [Restaurante Casa Brisa](https://fsamuelatencia-crypto.github.io/portafolio-web-freelance/restaurante/)
+- [Empresa Solaria Norte](https://fsamuelatencia-crypto.github.io/portafolio-web-freelance/empresa/)
+
+## Tecnología
+
+HTML5 semántico, CSS responsive y JavaScript sin dependencias de npm. Cada sitio tiene su propia carpeta con `index.html`, `styles.css` y `script.js`. El archivo raíz redirige al portafolio.
 
 ## Vista local
 
-Ejecuta `node preview-server.js` y abre `http://127.0.0.1:4173/portafolio/`. No requiere paquetes npm. Para publicar, crea un repositorio por proyecto y copia el contenido de esa carpeta a la raíz. Consulta `docs/plataformas-y-publicacion.md`.
+Con Node.js instalado, ejecuta `node preview-server.js` desde la carpeta del proyecto y abre `http://127.0.0.1:4173/`.
 
-## Antes de publicar
+## Alcance de las demostraciones
 
-El portafolio muestra Atencia Sxmuel y sus datos de contacto autorizados. Las marcas, textos, precios y testimonios son demostrativos. Las vistas pequeñas de proyectos son mockups CSS, no capturas de pantalla. Los formularios usan `mailto:` y no almacenan datos. Las fotos remotas son de Unsplash; revisa licencia y derechos de imagen antes de usar. Se requiere conexión a Internet para Google Fonts y fotos.
+Casa Brisa y Solaria Norte son marcas ficticias; sus datos, precios, testimonios, ubicación e imágenes son de muestra. El portafolio identifica esos ejemplos como demostraciones. Los formularios abren un borrador en el correo del visitante y no almacenan ni envían datos mediante un servidor. El enlace de reservas del restaurante es ilustrativo.
 
-El paquete público no contiene prospectos ni contactos comerciales. No publiques datos de clientes sin permiso.
+Las imágenes de Unsplash y las fuentes de Google se cargan desde Internet. Revisa los permisos de uso y reemplaza el contenido de muestra antes de adaptar estos proyectos a un negocio real.
+
+## Documentación
+
+En `docs/` están los paquetes y precios iniciales, propuesta y acuerdo, textos de presentación, plan de captación y guía de plataformas. No se incluyen hojas ni contactos privados de prospectos.
