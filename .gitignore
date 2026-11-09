@@ -1,0 +1,5 @@
+# Keep prospect and client contact data out of public repositories
+gestion/prospectos.tsv
+gestion/seguimiento.tsv
+gestion/gestion-freelance.xlsx
+gestion/_xlsx_tmp/
