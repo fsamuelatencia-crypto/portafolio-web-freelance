@@ -4,8 +4,8 @@ const siteType=document.querySelector('#site-type');
 const quoteTotal=document.querySelector('#quote-total');
 const quoteLink=document.querySelector('#quote-whatsapp');
 const quoteInputs=[...document.querySelectorAll('.quote-option input')];
-const basePrices={business:1000000,shop:1200000,restaurant:1000000};
-const extraPrices={catalog:400000,booking:350000,admin:1000000,commerce:2000000,users:1000000,qr:250000,seo:350000};
+const basePrices={business:550000,shop:550000,restaurant:550000};
+const extraPrices={domain:50000,catalog:200000,booking:250000,admin:950000,commerce:1950000,users:1250000,qr:100000,seo:350000};
 const money=value=>new Intl.NumberFormat('es-CO',{style:'currency',currency:'COP',maximumFractionDigits:0}).format(value);
 function updateQuote(){
  const base=basePrices[siteType?.value]||basePrices.business;
@@ -14,7 +14,8 @@ function updateQuote(){
  if(quoteTotal)quoteTotal.textContent=money(total)+' COP';
  const labels={business:'empresa o negocio de servicios',shop:'tienda o establecimiento',restaurant:'restaurante o cafetería'};
  const extras=selected.map(input=>input.closest('label').querySelector('b').textContent);
- const message='Hola, quisiera cotizar una página web. Tipo de negocio: '+(labels[siteType?.value]||labels.business)+'. Funciones seleccionadas: '+(extras.length?extras.join(', '):'sitio base sin adicionales')+'. Estimado mostrado: '+money(total)+' COP. Quisiera revisar el alcance y los requisitos.';
+ const message='Hola, quisiera cotizar una página web. Tipo de negocio: '+(labels[siteType?.value]||labels.business)+'. Adicionales: '+(extras.length?extras.join(', '):'ninguno')+'. Estimado mostrado: '+money(total)+' COP. Quisiera revisar el alcance y los requisitos.';
  if(quoteLink)quoteLink.href='https://wa.me/573104020228?text='+encodeURIComponent(message);
 }
 siteType?.addEventListener('change',updateQuote);quoteInputs.forEach(input=>input.addEventListener('change',updateQuote));updateQuote();
+
