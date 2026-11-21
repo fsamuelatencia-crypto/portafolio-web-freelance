@@ -1,38 +1,25 @@
-# Servicios freelance · propuesta inicial
+# Servicios y precios · Samuel Atencia
 
-Precios de entrada para proyectos pequeños en Colombia. Se cotizan después de cerrar contenido, número de secciones, revisiones y entregables. Referencias comerciales publicadas en Colombia durante 2026 ubican una landing page por encima de $400.000–$800.000 COP en varios paquetes de proveedores. Las tarifas de inicio de esta guía son deliberadamente económicas y solo convienen con alcance acotado; no cotices una web a medida como si fuera una plantilla.
+## Sitio web base
 
-## Paquetes sugeridos
+**$550.000 COP sin dominio.** **$600.000 COP con dominio registrado durante el primer año.** Desde el segundo año, el cliente paga la renovación del dominio.
 
-| Paquete | Precio de entrada | Incluye | No incluye |
-|---|---:|---|---|
-| Esencial | $280.000 COP | Landing de una página, hasta 5 secciones, responsive, SEO básico, contacto y una ronda de cambios | Textos extensos, fotografías, dominio, hosting, formulario con backend |
-| Negocio | $580.000 COP | Hasta 4 páginas, adaptación de marca, servicios, FAQ, formulario `mailto:`, enlaces sociales y dos rondas | Tienda, pagos, agenda conectada, dominio/hosting, redacción profesional |
-| A medida | Desde $950.000 COP | Alcance definido por módulos, diseño propio, contenido estructurado, interacciones y plan de publicación | Backend e integraciones sin estimación aprobada |
+El alcance base sigue la propuesta enviada a Lily e incluye diseño adaptado al negocio, inicio y presentación, catálogo inicial, galería, sección «Quiénes somos», mapa, zonas y condiciones de entrega, pedidos por WhatsApp, redes sociales, adaptación a celulares, tabletas y computadores, SEO básico, publicación, código QR personalizado, cinco rondas de ajustes y tres meses de revisión y optimización. Durante el desarrollo se comparten avances. El mantenimiento posterior puede contratarse por $10.000 COP mensuales, según el alcance acordado.
 
-## Tarifario orientativo
+El precio final se confirma después de definir contenido, número de secciones, productos, dominio y necesidades especiales. El dominio se registra a nombre del cliente. Pasarelas, comisiones, hosting de pago y servicios externos se cotizan aparte.
 
-- Landing page: $280.000–$400.000 COP.
-- Página empresarial pequeña: $580.000–$900.000 COP.
-- Portafolio personal: $350.000–$650.000 COP.
-- Rediseño visual sin backend: desde $300.000 COP.
-- Integración de WhatsApp en una web existente: $40.000–$90.000 COP.
-- Mantenimiento básico: $90.000–$180.000 COP/mes por hasta 2 horas de cambios pequeños, con alcance y horario acordados.
-- Formulario con almacenamiento, notificaciones o recepción en servidor: cotizar aparte luego de elegir proveedor.
+## Adicionales sobre el sitio base
 
-Los rangos de agencia suelen ser más altos. Una guía de Zero Azul para 2026 publica landing pages de $800.000–$2.500.000 y sitios corporativos de $2,5–$6 millones; INTEGRADAV publica una landing de $750.000–$1,2 millones. Son precios publicados por proveedores, no un estudio estadístico. [Zero Azul](https://zeroazul.com/servicios/creacion-sitios-web) · [INTEGRADAV](https://integradav.com/blog/cuanto-cuesta-pagina-web-colombia).
+| Función | Adicional | Total de referencia sin dominio |
+|---|---:|---:|
+| Catálogo con filtros por categoría, hasta 20 productos | $200.000 | $750.000 |
+| Formulario de solicitud de reserva o cita por WhatsApp | $250.000 | $800.000 |
+| Panel privado para editar productos y contenido | $950.000 | $1.500.000 |
+| Carrito, pasarela de pago e inventario automático | $1.950.000 | $2.500.000 |
+| Cuentas individuales y permisos por rol | $1.250.000 | $1.800.000 |
+| SEO ampliado, adicional al SEO básico incluido | $350.000 | $900.000 |
 
-## Costos aparte
+El QR para el sitio que se desarrolla está incluido. Crear un QR para una página ya existente cuesta $100.000 COP. El registro de dominio por el primer año suma $50.000 COP a cualquiera de los totales.
 
-- **Dominio:** lo compra el cliente a su nombre; el precio y renovación anual dependen del registrador y la extensión.
-- **Hosting:** hay opciones gratuitas para sitios estáticos bajo sus propias condiciones; dominio personalizado, formularios y tráfico pueden tener costo.
-- **Servicios externos:** correo, reservas, mapas, fotos, pagos y analítica se cotizan según proveedor y uso.
-- **Impuestos/facturación:** revisar con un contador en Colombia según las condiciones de cada parte.
+Los valores de los ejemplos son orientativos y corresponden a las funciones descritas. La confirmación del precio requiere acordar el alcance y los proveedores externos. Forma de pago propuesta: 50 % para iniciar y 50 % al entregar.
 
-## Lista antes de cotizar
-
-1. Objetivo, público, referencias, contenido, fotos, páginas, fecha y quién aprueba.
-2. Alcance y número de rondas incluidos; cambios nuevos se cotizan aparte.
-3. Construcción separada de dominio, hosting y terceros.
-4. El cliente mantiene titularidad de sus cuentas y recibe acceso.
-5. Anticipo, saldo, fechas y entrega acordados por escrito.
